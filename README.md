@@ -1,6 +1,7 @@
 # slow network connect javascript
 Check and display Notice on web when network connection slow with javascript
 ======================
+[![Paypal Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](http://paypal.me/MrSanTran)
 
 -----
 **Install**
